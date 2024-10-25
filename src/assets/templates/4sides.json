@@ -1,0 +1,13 @@
+{
+  "symmetries": [
+    {
+      "amount": 4,
+      "element": "[\"Path\",{\"applyMatrix\":true,\"segments\":[[[481.95514,450.80326],[0,0],[37.83805,-16.75678]],[[501.47881,379.32429],[24.82227,30.89586],[-7.45438,4.51113]],[[479.11565,392.85769],[7.45438,-4.51113],[0,0]]],\"fillColor\":[0,0,0,0.001],\"strokeColor\":[0,0,0],\"strokeWidth\":6,\"strokeCap\":\"round\",\"strokeJoin\":\"round\"}]",
+      "mirror": false,
+      "center": { "x": 472.12510960834294, "y": 454.54601255156433 }
+    }
+  ],
+  "elements": [
+    "[\"PathText\",{\"applyMatrix\":false,\"matrix\":[0.47506,0,0,0.47506,357.65783,564.49617],\"content\":\"Your logo name\",\"fillColor\":[0.57255,0.57255,0.57255],\"fontFamily\":\"Roboto-Regular\",\"fontSize\":60,\"leading\":72,\"justification\":\"center\"}]"
+  ]
+}
